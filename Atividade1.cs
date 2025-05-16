@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Atividade1
 {
     static void Main()
     {

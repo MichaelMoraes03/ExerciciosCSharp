@@ -12,3 +12,4 @@ C:\Users\SMN INGÁ - 03\desktop\c#\obj\Debug\net9.0\refint\c#.dll
 C:\Users\SMN INGÁ - 03\desktop\c#\obj\Debug\net9.0\c#.pdb
 C:\Users\SMN INGÁ - 03\desktop\c#\obj\Debug\net9.0\c#.genruntimeconfig.cache
 C:\Users\SMN INGÁ - 03\desktop\c#\obj\Debug\net9.0\ref\c#.dll
+C:\Users\SMN INGÁ - 03\desktop\c#\obj\Debug\net9.0\c#.sourcelink.json
